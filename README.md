@@ -1,11 +1,11 @@
-### Hi there 👋, my name is md.kamal khan
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://scontent.frjh5-1.fna.fbcdn.net/v/t1.6435-9/102940409_2661617464126752_2844178264647695728_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHcGZr9YWrSIBHv896cPsB0FnOBlS_Y-EEWc4GVL9j4Qaw1ko-hEZmldLd7ek-2ZfPLUVKrGPPlJ7t5kDhO8LWa&_nc_ohc=H2JkY-3oA0EAX-gpPrb&_nc_ht=scontent.frjh5-1.fna&oh=00_AfAfxnP8NOrAh0iE971RtKuz7vjihzOqgcsFywPACyqf0w&oe=639FF19C)
+
+![I am GitHub Readme Generator's creator](https://scontent.frjh5-1.fna.fbcdn.net/v/t1.6435-9/170210159_2904140299874466_2136003623500270358_n.jpg?stp=c0.17.206.206a_dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeFazNGfFi8ZhQbl40SvRxarrwFccSqsuqevAVxxKqy6p-cXwTJ9YCR50JDOircxkjhYSD_cBrLOCxB2iOcgyk78&_nc_ohc=uhwjfr6f3oYAX_X6PP_&_nc_ht=scontent.frjh5-1.fna&oh=00_AfBPe2qHBw7sxCZQbkPwdNePPjTiz43TbD-1t_Mk0Lc7-Q&oe=63A00AE0)
 
  I am a freelancer kamal ,I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:   JS / HTML / CSS/javaScript/bootstrap/laravel/wordpress
-
+### Hi there 👋, my name is md.kamal khan
+#### I am GitHub Readme Generator's creator
 - 🔭 I’m currently working on youtube  
 - 🌱 I’m currently learning javascript 
 - 👯 I’m looking to collaborate on github 
